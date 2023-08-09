@@ -1,3 +1,3 @@
-Category 1
-Category 2
-Category 3
+Daraz
+Inexis Consulting
+Digiratina Technology Solutions

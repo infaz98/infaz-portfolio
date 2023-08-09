@@ -5,14 +5,17 @@ const parseTags = (mdContent) => {
   const lines = mdContent.split("\n");
 
   for (let i = 0; i < lines.length; i++) {
-    const value = lines[i];
+    const value = lines[i].trim(); // Trim the value to remove whitespace
 
-    tags.push({
-      value
-    });
+    if (value !== "") {
+      tags.push({
+        value
+      });
+    }
   }
   return tags;
 };
+
 
 const TagsArray = (file) => {
   const [Tags, setTags] = useState([]);

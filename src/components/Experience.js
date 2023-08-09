@@ -32,6 +32,7 @@ export default function Experience({ color }) {
 
   useEffect(() => {
     if (options.length > 0) {
+      console.log(options , "options");
       setSelected(options[0].value);
     }
   }, [options]);
@@ -63,7 +64,11 @@ export default function Experience({ color }) {
               {options.map((option) => (
                 <Button
                   colorScheme={selected === option.value ? `${color}` : "gray"}
-                  onClick={() => handleSelected(option.value)}
+                  onClick={() => 
+                  {
+                    console.log(option.value);
+                    handleSelected(option.value);
+                  }}
                 >
                   {option.value}
                 </Button>

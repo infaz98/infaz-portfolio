@@ -1,29 +1,28 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
+## Daraz
+- *Customer Experience Associate* | Jan'23 - Feb'23
 - ![logo512](../assets/logo512.png)
-- Tags: Category 1
+- Tags: Daraz
 - Badges:
-  - Badge [blue]
+  - Customer Experience [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - 
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
+## Inexis Consulting
+- *Trainee Cloud Engineer - Software Engineering* | Feb'23 - Mar'23
 - ![logo512](../assets/logo512.png)
-- Tags: Category 2
+- Tags: Inexis Consulting
 - Badges:
-  - Badge [blue]
+  - ASP.Net MVC [blue]
+  - Azure [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - 
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
+## Digiratina Technology Solutions
+- *Senior Software Engineer* | Mar'23 - Apr'23
 - ![logo512](../assets/logo512.png)
-- Tags: Category 3
+- Tags: Digiratina Technology Solutions
 - Badges:
-  - Badge [blue]
+  - .Net Core [blue]
+  - React [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - 
